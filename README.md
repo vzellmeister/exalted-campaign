@@ -1,4 +1,4 @@
-# Exalted dos Migs
+# Exalted de Migs
 ![Exalted](./assets/exalted_cover.png)
 
 ## Cenário
