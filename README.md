@@ -1,7 +1,5 @@
+# Exalted dos Migs
 ![Exalted](./assets/exalted_cover.png)
-
-# Exalted
-Campanha de Exalted 2e para os migos
 
 ## Cenário
 
