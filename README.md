@@ -2,7 +2,7 @@
 
 
 <style type="text/css">
-    .attribute-class-title {font-weight: bold; width: 13vw; font-size: }
+    .attribute-class-title {font-weight: bold; width: 13vw; }
     .attribute-name {width: min-content; padding-left: 0.5vw;}
     .dot-score {float: right; padding-right: 0.5vw;}
     .separator {align-self: start; width: 5px;}
@@ -19,9 +19,9 @@
 </thead>
 <tbody>
   <tr>
-    <td class=""><span class="attribute-name">Strength</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
-    <td class=""><span class="attribute-name">Charisma</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
-    <td class=""><span class="attribute-name">Intelligence</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
+    <td class=""><span style="font-weight: bold; width: 13vw;">Strength</span><span style="float: right; padding-right: 0.5vw;">⚫⚪⚪⚪⚪</span></td>
+    <td class=""><span style="font-weight: bold; width: 13vw;">Charisma</span><span style="float: right; padding-right: 0.5vw;">⚫⚪⚪⚪⚪</span></td>
+    <td class=""><span style="font-weight: bold; width: 13vw;">Intelligence</span><span style="float: right; padding-right: 0.5vw;">⚫⚪⚪⚪⚪</span></td>
   </tr>
   <tr>
     <td class=""><span class="attribute-name">Dexterity</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
