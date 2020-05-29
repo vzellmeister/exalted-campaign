@@ -1,5 +1,6 @@
 
 ___
+
 |         | **Physical** |           |            |  **Social**  |           |              |  **Mental**  |           |
 |:--------|--------------|----------:|:-----------|--------------|----------:|:-------------|--------------|----------:|
 |Strength |              | ⚫⚪⚪⚪⚪|Charisma    |              | ⚫⚪⚪⚪⚪|Intelligence |              | ⚫⚪⚪⚪⚪|
@@ -7,6 +8,7 @@ ___
 |Stamina  |              | ⚫⚪⚪⚪⚪|Appearance  |              | ⚫⚪⚪⚪⚪|Perception   |              | ⚫⚪⚪⚪⚪|
 
 ___
+
 <table>
 <tr><td>
 
@@ -79,3 +81,10 @@ ___
 </td></tr>
 
 </table>
+
+Some other text
+
+## Some title
+- some item
+- some item
+- some item
