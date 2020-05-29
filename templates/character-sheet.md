@@ -16,6 +16,7 @@ ___
 |Melee  |             | ⚪⚪⚪⚪⚪|Presence  |                   | ⚪⚪⚪⚪⚪|Lore   |                    | ⚪⚪⚪⚪⚪|
 |Thrown  |            | ⚪⚪⚪⚪⚪|Resistance  |                 | ⚪⚪⚪⚪⚪|Medicine   |                | ⚪⚪⚪⚪⚪|
 |War  |               | ⚪⚪⚪⚪⚪|Survival  |                   | ⚪⚪⚪⚪⚪|Occult   |                  | ⚪⚪⚪⚪⚪|
+|         |  |           |            |    |           |              |    |           |
 |         | **Night** |           |            |  **Twilight**  |           |              |  **Other**  |           |
 |Athletics |             | ⚪⚪⚪⚪⚪|Bureaucracy    |           | ⚪⚪⚪⚪⚪| _____________  |           | ⚪⚪⚪⚪⚪|
 |Awareness      |        | ⚪⚪⚪⚪⚪|Linguistics|               | ⚪⚪⚪⚪⚪| _____________  |           | ⚪⚪⚪⚪⚪|
