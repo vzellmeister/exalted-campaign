@@ -1,41 +1,5 @@
 ![Exalted](./assets/exalted_cover.png)
 
-
-<style type="text/css">
-    .attribute-class-title {font-weight: bold; width: 13vw; }
-    .attribute-name {width: min-content; padding-left: 0.5vw;}
-    .dot-score {float: right; padding-right: 0.5vw;}
-    .separator {align-self: start; width: 5px;}
-    .filler {width: auto;}
-</style>
-
-<table>
-<thead>
-  <tr>
-    <th class="attribute-class-title">Physical</th>
-    <th class="attribute-class-title">Social<br></th>
-    <th class="attribute-class-title">Mental</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class=""><span style="font-weight: bold; width: 13vw;">Strength</span><span style="float: right; padding-right: 0.5vw;">⚫⚪⚪⚪⚪</span></td>
-    <td class=""><span style="font-weight: bold; width: 13vw;">Charisma</span><span style="float: right; padding-right: 0.5vw;">⚫⚪⚪⚪⚪</span></td>
-    <td class=""><span style="font-weight: bold; width: 13vw;">Intelligence</span><span style="float: right; padding-right: 0.5vw;">⚫⚪⚪⚪⚪</span></td>
-  </tr>
-  <tr>
-    <td class=""><span class="attribute-name">Dexterity</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
-    <td class=""><span class="attribute-name">Manipulation</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
-    <td class=""><span class="attribute-name">Wits</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
-  </tr>
-  <tr>
-    <td class=""><span class="attribute-name">Stamina</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
-    <td class=""><span class="attribute-name">Appearance</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
-    <td class=""><span class="attribute-name">Perception</span><span class="dot-score">⚫⚪⚪⚪⚪</span></td>
-  </tr>
-</tbody>
-</table>
-
 ## Cenário
 
 ### Local
@@ -73,6 +37,8 @@ Xīnshén Tsung, seu amo, raramente a deixava mais que um dia em sua jaula, mas 
 O momento foi quebrado por gritos e sons de briga vindos da oficina. A armadura e a jovem então começaram a brilhar com a mesma luz. Um flash e um estrondo logo seguiram. Quando Hēi Mò Kūn finalmente conseguiu abrir os olhos, viu que um imenso buraco havia sido feito na parede do cofre e a desconhecida havia sumido junto com a armadura. Antes que ela pudesse processar o que acontecera, novos sons de briga e gritos vindos da oficina chamaram sua atenção. A porta do cofre havia sido completamente escancarada pela explosão, e ela podia agora claramente ver uma outra jovem coberta de sangue e a seus pés, dois corpos. Um deles era o de seu amo. Confusa e mais desesperada que nunca, Hēi Mò Kūn não notou quando a outra jovem fugiu pela porta da oficina. Do fundo de seu desespero, Hēi Mò Kūn só conseguia chorar encolhida em sua jaula.
 
 Foi então que ela notou uma doce luz prateada que brilhava ao seu redor, iluminando o que sobrava do cofre. Junto da luz ela ouviu palavras, três imperativos sussurrados nos seus ouvidos: "Sobrevive. Cresce. Vinga." O que quer que tivesse acabado de acontecer, Hēi Mò Kūn se sentia renovada. Ela facilmente venceu as barras de sua jaula (quase que escorregando por entre elas) e correu para a liberdade.
+
+[ficha](./templates/character-sheet.md)
 
 ## Personagens
 - [Gâng Huá](./docs/characters/guang_hua.md) (Saccomani)
